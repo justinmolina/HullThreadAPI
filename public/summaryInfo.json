@@ -1,0 +1,80 @@
+{
+  "main": {
+    "name":"HullThread Virtual Services",
+    "description":"Leverage our 3D capabilities in your personal website and let users around the world experience your designs like never before",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-businessInfo",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-businessInfo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "businessInfo":{
+    "industry":[
+      {
+        "category": "Auto",
+        "subcategory":"Cars",
+        "specifics":"Tesla Model X",
+        "metadata":"2021",
+        "exampleURL": "https://firebasestorage.googleapis.com/v0/b/hullthread.appspot.com/o/Models%2Ftesla2.glb?alt=media&token=4ae3a9a8-54ea-430e-ac01-51d2b2b1c395"
+      },
+      {
+        "category": "Real Estate",
+        "subcategory":"Houses",
+        "specifics":"107-24 71st Rd",
+        "metadata":"Built 2022",
+        "description":"Client can't make it to a showing? No problem, bring the showing to the client",
+        "exampleURL": "https://firebasestorage.googleapis.com/v0/b/hullthread.appspot.com/o/Models%2Fmansion2.glb?alt=media&token=f9310d71-b581-4485-b564-323405184779"
+      },
+      {
+        "category": "Other",
+        "subcategory":"Other",
+        "specifics":"Masters in Beer tasting",
+        "metadata":"April 2017",
+        "description":"Have a creative use-case for this technology? Let us know, lets make it happen!",
+        "exampleURL": "https://firebasestorage.googleapis.com/v0/b/hullthread.appspot.com/o/Models%2Ftesla2.glb?alt=media&token=4ae3a9a8-54ea-430e-ac01-51d2b2b1c395"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Independent designer",
+        "price": "$500/mo",
+        "description": "This tier is for independent designers getting their start in the fashion industry",
+        "included": "10 models, 300k requests per month"
+      },
+      {
+        "tier": "Small business",
+        "price": "$1500/mo",
+        "description": "This tier is for independent designers getting their start in the fashion industry",
+        "included": "30 models, 1 million requests per month"
+      },
+      {
+        "tier": "Industry",
+        "price": "$4500/mo",
+        "description": "This tier is for independent designers getting their start in the fashion industry",
+        "included": "60 models, 5 million requests per month"
+      }
+    ]
+  }
+}
